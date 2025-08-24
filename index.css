@@ -1,0 +1,335 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+padding: 40px 20px;
+background-image: url(Banner\ para\ Site\ de\ Dia\ dos\ Pais\ Compre\ agora\ Fotográfico\ Azul\ .png);
+height: 500px;
+border: 4px solid black;
+}
+.container:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropbtn {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+    text-align: left;
+  }
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #444;
+    width: 100%;
+    margin-top: 5px;
+    border-radius: 4px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+    padding: 15px;
+    color: white;}
+    .dropdown-content HTML {
+        color: white;
+        padding: 10px;
+        display: block;
+        text-decoration: none;
+        font-size: 14px;
+      }
+
+      .dropdown-content HTML:hover {
+        background-color: #666;
+      }
+      .container:hover .dropdown-content {
+        display: block;
+      }
+.HTML:hover .dropdown-content {
+    display: block;
+}
+  .HTML button {
+    padding: 8px 12px;
+    background-color: #666;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+.Cont1{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);
+}
+
+.Intro{
+    width: 97%;
+    align-items: center;
+    margin: 15px;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgba(73, 144, 216, 0.896);
+}
+.Margin{ 
+    height:20px;
+    align-items: center;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: azure;
+    width:fit-content;
+}
+h1{
+    font-family:cursive;
+    text-align:center;
+    align-items: center;
+}
+.Margin2{
+    
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: azure;
+    height: 5px;
+}
+.Div{ 
+    height:20px;
+    align-items: center;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: azure;
+    width:fit-content;
+}
+
+    .Div2{
+    
+        text-align: center;
+        align-items: center;
+        margin: 10px;
+        padding: 2%;
+        border-radius: 10px;
+        background-color: azure;
+        height: 5px;}
+
+.Footer{ 
+    height:20px;
+    align-items: center;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: azure;
+    width:fit-content;
+}
+
+    .Footer2{
+    
+        text-align: center;
+        align-items: center;
+        margin: 10px;
+        padding: 2%;
+        border-radius: 10px;
+        background-color: azure;
+        height: 5px;}
+
+        .Class{ 
+            height:20px;
+            align-items: center;
+            padding: 2%;
+            border-radius: 10px;
+            background-color: azure;
+            width:fit-content;
+        }
+        
+            .Class2{
+            
+                text-align: center;
+                align-items: center;
+                margin: 10px;
+                padding: 2%;
+                border-radius: 10px;
+                background-color: azure;
+                height: 5px;}
+
+.Header{ 
+    height:20px;
+    align-items: center;
+    padding: 2.5%;
+    border-radius: 10px;
+    background-color: azure;
+    width:fit-content;
+}
+
+    .Header2{
+    
+        text-align: center;
+        align-items: center;
+        margin: 10px;
+        padding: 2%;
+        border-radius: 10px;
+        background-color: azure;
+        height: 5px;}
+
+    .img{ 
+    height:20px;
+    align-items: center;
+    padding: 2.5%;
+    border-radius: 10px;
+    background-color: azure;
+    width:fit-content;
+}
+
+    .img2{
+    
+        text-align: center;
+        align-items: center;
+        margin: 10px;
+        padding: 2%;
+        border-radius: 10px;
+        background-color: azure;
+        height: 5px;}
+
+    .Cursor {
+        height:20px;
+    align-items: center;
+    padding: 2.5%;
+    border-radius: 10px;
+    background-color: azure;
+    width:fit-content;
+    }
+
+    .Cursor2{
+        text-align: center;
+        align-items: center;
+        margin: 10px;
+        padding: 2%;
+        border-radius: 10px;
+        background-color: azure;
+        height: 5px;
+    }
+    .Conts{
+        height:20px;
+        align-items: center;
+        padding: 2.5%;
+        border-radius: 10px;
+        background-color: azure;
+        width:fit-content;
+    }
+    .Conts2{
+        text-align: center;
+        align-items: center;
+        margin: 10px;
+        padding: 2%;
+        border-radius: 10px;
+        background-color: azure;
+        height: 5px;
+    }
+    .Link{
+        height:20px;
+        align-items: center;
+        padding: 2.5%;
+        border-radius: 10px;
+        background-color: azure;
+        width:fit-content;
+    }
+    .Link2{
+        text-align: center;
+        align-items: center;
+        margin: 10px;
+        padding: 2%;
+        border-radius: 10px;
+        background-color: azure;
+        height: 5px;
+    }
+
+.Cont2{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);
+}
+
+.Cont3{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);
+}
+
+.Cont4{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);
+}
+.Cont5{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);
+}
+
+.Cont6{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);
+}
+.Cont7{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);   
+}
+.Cont8{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);   
+}
+.Cont9{
+    width: 90%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: rgb(31, 103, 175);   
+}
+
+.nig{
+height: 70%;
+width: 70%;
+text-align: center;
+margin-top: auto;
+}

@@ -1,0 +1,77 @@
+body {
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f6f9;
+    color: #333;
+  }
+  
+  header {
+    padding: 40px 20px;
+    background-image: url("Banner\ para\ Site\ de\ Dia\ dos\ Pais\ Compre\ agora\ Fotográfico\ Azul\ .png"); 
+    height: 200px;
+    border-bottom: 4px solid black;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .intro {
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgba(73, 144, 216, 0.9);
+    color: white;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .cat {
+    width: 90%;
+    margin: 20px auto;
+  }
+  
+  .dropbtn {
+    width: 100%;
+    padding: 12px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 6px;
+    text-align: left;
+  }
+  
+  .dropbtn:hover {
+    background-color: #555;
+  }
+  
+  .dropdown-content {
+    display: none;
+    background-color: #fff;
+    margin-top: 5px;
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    padding: 10px;
+    list-style: none;
+  }
+  
+  .dropdown-content li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .dropdown-content li strong {
+    color: #000000;
+  }
+  
+  .dropdown-content li:last-child {
+    border-bottom: none;
+  }
+  
+  /* Mostrar dropdown ao passar o mouse */
+  .cat:hover .dropdown-content {
+    display: block;
+  }
+  
